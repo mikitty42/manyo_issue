@@ -1,24 +1,32 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# task management　application
+It is a task management system application.
 
-Things you may want to cover:
+# Description
+The details of task management are as follows.
+Registration of tasks
+Set deadlines for tasks
+prioritize the tasks
+Manage task status
+Filter tasks by status
+Search tasks by task name
+View tasks as a list
+Sort based on priority and end date on the list screen
+Label and classify tasks
+Register as a user and see only the tasks you have registered
 
-* Ruby version
+In addition, to meet the above requirements, we would like to have the following management functions:
+User management function
 
-* System dependencies
+# Requirements
+- Ruby 3.0.1
+- Rails 6.1.6
+- psql 14.6
 
-* Configuration
 
-* Database creation
+| :--- | :---: | ---: |
+| TD | TD | TD |
+| TD | TD | TD |
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
