@@ -4,8 +4,8 @@
 It is a task management system application.
 
 # Description
--The details of task management are as follows.
--Registration of tasks
+- The details of task management are as follows.
+- Registration of tasks
 -Set deadlines for tasks
 -prioritize the tasks
 -Manage task status
