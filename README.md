@@ -27,8 +27,16 @@ In addition, to meet the above requirements, we would like to have the following
 
 # table schema
 Users
-| : | :---: | ---: |
-| TD | TD | TD |
-| TD | TD | TD |
+| id(PK)        | int           |
+| ------------- | ------------- |
+| name          | string        |
+| email         | string        |
+|password_digest| string        |
 
+Task
+| id(PK)        | int           |
+| ------------- | ------------- |
+| name          | string        |
+| detail        | text          |
+| user_id       | int           |
 
